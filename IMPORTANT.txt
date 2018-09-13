@@ -1,0 +1,6 @@
+To run the program
+
+1.Open CSP_140379F\dist directory
+2.Ensure the inputfile and outputfile (.csv files) files are in the same directory.
+3.Open cmd or terminal from that directory.
+4.Type CSP_140379F.exe <inputfile_name>.csv <outputfile_name>.csv
